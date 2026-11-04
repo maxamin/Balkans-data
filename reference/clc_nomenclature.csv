@@ -1,0 +1,45 @@
+code_18,level1,level2,level3,atlas_group
+111,Artificial surfaces,Urban fabric,Continuous urban fabric,urban_industrial
+112,Artificial surfaces,Urban fabric,Discontinuous urban fabric,urban_industrial
+121,Artificial surfaces,"Industrial, commercial and transport units",Industrial or commercial units,urban_industrial
+122,Artificial surfaces,"Industrial, commercial and transport units",Road and rail networks and associated land,urban_industrial
+123,Artificial surfaces,"Industrial, commercial and transport units",Port areas,urban_industrial
+124,Artificial surfaces,"Industrial, commercial and transport units",Airports,urban_industrial
+131,Artificial surfaces,"Mine, dump and construction sites",Mineral extraction sites,urban_industrial
+132,Artificial surfaces,"Mine, dump and construction sites",Dump sites,urban_industrial
+133,Artificial surfaces,"Mine, dump and construction sites",Construction sites,urban_industrial
+141,Artificial surfaces,"Artificial, non-agricultural vegetated areas",Green urban areas,urban_industrial
+142,Artificial surfaces,"Artificial, non-agricultural vegetated areas",Sport and leisure facilities,urban_industrial
+211,Agricultural areas,Arable land,Non-irrigated arable land,arable
+212,Agricultural areas,Arable land,Permanently irrigated land,irrigated
+213,Agricultural areas,Arable land,Rice fields,irrigated
+221,Agricultural areas,Permanent crops,Vineyards,vineyards
+222,Agricultural areas,Permanent crops,Fruit trees and berry plantations,orchards
+223,Agricultural areas,Permanent crops,Olive groves,olive_groves
+231,Agricultural areas,Pastures,Pastures,pastures
+241,Agricultural areas,Heterogeneous agricultural areas,Annual crops associated with permanent crops,mixed_agriculture
+242,Agricultural areas,Heterogeneous agricultural areas,Complex cultivation patterns,mixed_agriculture
+243,Agricultural areas,Heterogeneous agricultural areas,"Land principally occupied by agriculture, with significant areas of natural vegetation",mixed_agriculture
+244,Agricultural areas,Heterogeneous agricultural areas,Agro-forestry areas,mixed_agriculture
+311,Forest and semi natural areas,Forests,Broad-leaved forest,forest
+312,Forest and semi natural areas,Forests,Coniferous forest,forest
+313,Forest and semi natural areas,Forests,Mixed forest,forest
+321,Forest and semi natural areas,Scrub and/or herbaceous vegetation associations,Natural grasslands,grassland
+322,Forest and semi natural areas,Scrub and/or herbaceous vegetation associations,Moors and heathland,shrubland
+323,Forest and semi natural areas,Scrub and/or herbaceous vegetation associations,Sclerophyllous vegetation,shrubland
+324,Forest and semi natural areas,Scrub and/or herbaceous vegetation associations,Transitional woodland-shrub,shrubland
+331,Forest and semi natural areas,Open spaces with little or no vegetation,"Beaches, dunes, sands",open_land
+332,Forest and semi natural areas,Open spaces with little or no vegetation,Bare rocks,open_land
+333,Forest and semi natural areas,Open spaces with little or no vegetation,Sparsely vegetated areas,open_land
+334,Forest and semi natural areas,Open spaces with little or no vegetation,Burnt areas,open_land
+335,Forest and semi natural areas,Open spaces with little or no vegetation,Glaciers and perpetual snow,open_land
+411,Wetlands,Inland wetlands,Inland marshes,wetland
+412,Wetlands,Inland wetlands,Peat bogs,wetland
+421,Wetlands,Maritime wetlands,Salt marshes,wetland
+422,Wetlands,Maritime wetlands,Salines,wetland
+423,Wetlands,Maritime wetlands,Intertidal flats,wetland
+511,Water bodies,Inland waters,Water courses,water
+512,Water bodies,Inland waters,Water bodies,water
+521,Water bodies,Marine waters,Coastal lagoons,water
+522,Water bodies,Marine waters,Estuaries,water
+523,Water bodies,Marine waters,Sea and ocean,water

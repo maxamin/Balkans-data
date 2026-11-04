@@ -1,0 +1,47 @@
+dataset,type,geometry,features_or_size,crs,description
+balkans_civilian_atlas.gpkg:hydro_network,vector,Multi Line String,43965,EPSG:4326,Modelled river and stream network with size class (HydroRIVERS v1.0)
+balkans_civilian_atlas.gpkg:settlements,vector,Point,54815,EPSG:4326,"Cities, towns and villages (OSM place nodes)"
+balkans_civilian_atlas.gpkg:health_facilities,vector,Point,29145,EPSG:4326,"Hospitals, clinics, pharmacies, ambulance stations (OSM)"
+balkans_civilian_atlas.gpkg:transport_terminals,vector,Point,6514,EPSG:4326,"Railway/metro stations, bus stations, ferry terminals, airports with IATA code (OSM)"
+balkans_civilian_atlas.gpkg:tourism_accommodation,vector,Point,45633,EPSG:4326,Tourist information offices and accommodation (OSM)
+balkans_civilian_atlas.gpkg:cultural_heritage,vector,Point,17793,EPSG:4326,Museums and historic monuments (OSM)
+balkans_civilian_atlas.gpkg:humanitarian_osm_candidates,vector,Point,145,EPSG:4326,Unverified OSM features that may be humanitarian/migration services
+balkans_civilian_atlas.gpkg:border_crossings,vector,Point,840,EPSG:4326,Border control facilities at official crossings (OSM barrier=border_control)
+balkans_civilian_atlas.gpkg:rivers_named,vector,Multi Line String,35529,EPSG:4326,Named rivers and canals (OSM ways)
+balkans_civilian_atlas.gpkg:lakes,vector,Multi Polygon,2498,EPSG:4326,Lakes and reservoirs >= 0.05 km² (OSM)
+balkans_civilian_atlas.gpkg:protected_areas,vector,Multi Polygon,2654,EPSG:4326,"Protected areas, national parks and nature reserves >= 0.01 km² (OSM)"
+balkans_civilian_atlas.gpkg:roads,vector,Multi Line String,389598,EPSG:4326,"Motorway, trunk, primary and secondary roads (OSM)"
+balkans_civilian_atlas.gpkg:religious_sites,vector,Point,71208,EPSG:4326,"Places of worship and monasteries, classified by explicit OSM tags (OSM)"
+balkans_civilian_atlas.gpkg:humanitarian_services,vector,Point,96,EPSG:4326,"Official asylum, reception and migration-authority offices (hand-compiled register)"
+balkans_civilian_atlas.gpkg:atlas_extent,vector,Multi Polygon,1,EPSG:4326,Atlas countries buffered by 10 km; clip extent for terrain and hydrography
+balkans_civilian_atlas.gpkg:contours,vector,Multi Line String,52726,EPSG:4326,100 m contours from the 90 m Copernicus DEM (index every 500 m)
+balkans_civilian_atlas.gpkg:european_turkiye_mask,vector,Multi Polygon,1,EPSG:4326,Union of the 55 European Türkiye districts used to clip all Turkish data
+balkans_civilian_atlas.gpkg:countries,vector,Multi Polygon,12,EPSG:4326,Country polygons (GISCO 2024; Kosovo* split from Serbia; Türkiye = European part only)
+balkans_civilian_atlas.gpkg:international_boundaries,vector,Multi Line String,31,EPSG:4326,Land boundaries (GISCO 2024) plus derived Kosovo*–Serbia line
+balkans_civilian_atlas.gpkg:admin_regions,vector,Multi Polygon,161,EPSG:4326,First-level administrative/statistical regions (geoBoundaries ADM1)
+balkans_civilian_atlas.gpkg:municipalities,vector,Multi Polygon,5115,EPSG:4326,Municipalities / LAU (GISCO LAU 2024 or geoBoundaries; see admin_level_note)
+balkans_civilian_atlas.gpkg:land_cover_clc2018,vector,Multi Polygon,318753,EPSG:4326,
+balkans_civilian_atlas.gpkg:census_religion_municipal,vector,Multi Polygon,5066,EPSG:4326,Religious composition class per municipality from official census tables
+balkans_civilian_atlas.gpkg:earthquakes_emsc,vector,Point,2967,EPSG:4326,
+balkans_civilian_atlas.gpkg:land_cover_change_clc,vector,Multi Polygon,51640,EPSG:4326,
+balkans_civilian_atlas.gpkg:diplomatic_missions,vector,Point,1139,EPSG:4326,
+balkans_civilian_atlas.gpkg:education,vector,Point,26057,EPSG:4326,
+balkans_civilian_atlas.gpkg:water_points,vector,Point,41534,EPSG:4326,
+balkans_civilian_atlas.gpkg:hiking_routes,vector,Multi Line String,8572,EPSG:4326,
+balkans_civilian_atlas.gpkg:water_infrastructure,vector,Point,12001,EPSG:4326,
+balkans_civilian_atlas.gpkg:railway_lines,vector,Multi Line String,90830,EPSG:4326,
+balkans_civilian_atlas.gpkg:maritime_facilities,vector,Point,2594,EPSG:4326,
+balkans_civilian_atlas.gpkg:ferry_routes,vector,Multi Line String,1095,EPSG:4326,
+balkans_civilian_atlas.gpkg:public_services_osm,vector,Point,13678,EPSG:4326,
+balkans_civilian_atlas.gpkg:greenhouses,vector,Multi Polygon,26065,EPSG:4326,
+balkans_civilian_atlas.gpkg:shelters_rescue_osm,vector,Point,3426,EPSG:4326,
+balkans_civilian_atlas.gpkg:emergency_access_osm,vector,Point,3501,EPSG:4326,
+balkans_civilian_atlas.gpkg:supplies_osm,vector,Point,91114,EPSG:4326,
+balkans_civilian_atlas.gpkg:bathing_water_quality,vector,Point,3087,EPSG:4326,
+balkans_civilian_atlas.gpkg:mine_hazard_areas_osm,vector,Multi Polygon,201,EPSG:4326,
+balkans_civilian_atlas.gpkg:hazard_layers,vector,None,9,EPSG:4326,
+balkans_civilian_atlas.gpkg:water_quality_evidence,vector,None,0,EPSG:4326,
+balkans_civilian_atlas.gpkg:emergency_numbers,vector,None,30,EPSG:4326,
+terrain/dem_90m_atlas.tif,raster,,16920x16996,EPSG:3035,"Copernicus DEM GLO-90 reprojected to 90 m (bilinear), EPSG:3035, Int16 metres"
+terrain/hillshade_90m.tif,raster,,16920x16996,EPSG:3035,Multidirectional hillshade of the 90 m DEM
+terrain/slope_90m_deg.tif,raster,,16920x16996,EPSG:3035,Slope in whole degrees from the 90 m DEM

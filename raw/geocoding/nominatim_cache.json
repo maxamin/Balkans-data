@@ -1,0 +1,2257 @@
+{
+ "BG|бул. Княгиня Мария Луиза 114Б, София": [
+  {
+   "place_id": 58704738,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 96493820,
+   "lat": "42.7144736",
+   "lon": "23.3144433",
+   "category": "building",
+   "type": "government",
+   "place_rank": 30,
+   "importance": 6.891660944528905e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "114Б, бул. Княгиня Мария Луиза, ж.к. Райна Княгиня, София, Район Сердика, Столична, София-град, 1233, България",
+   "boundingbox": [
+    "42.7141746",
+    "42.7147925",
+    "23.3140662",
+    "23.3148246"
+   ]
+  }
+ ],
+ "BG|Овча купел, София": [
+  {
+   "place_id": 58579502,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5712384243,
+   "lat": "42.6832194",
+   "lon": "23.2702032",
+   "category": "railway",
+   "type": "station",
+   "place_rank": 30,
+   "importance": 0.2636224323479305,
+   "addresstype": "railway",
+   "name": "Овча купел",
+   "display_name": "Овча купел, бул. Президент Линкълн, кв. Овча купел, София, Район Овча купел, Столична, София-град, 1618, България",
+   "boundingbox": [
+    "42.6782194",
+    "42.6882194",
+    "23.2652032",
+    "23.2752032"
+   ]
+  }
+ ],
+ "BG|Военна рампа, София": [
+  {
+   "place_id": 58818930,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 16886569,
+   "lat": "42.7287781",
+   "lon": "23.3221176",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.1773516541617975,
+   "addresstype": "suburb",
+   "name": "Военна рампа",
+   "display_name": "Военна рампа, София, Район Сердика, Столична, София-град, България",
+   "boundingbox": [
+    "42.7165957",
+    "42.7398417",
+    "23.3112377",
+    "23.3380811"
+   ]
+  }
+ ],
+ "BG|Враждебна, София": [
+  {
+   "place_id": 58834401,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 89088458,
+   "lat": "42.6955647",
+   "lon": "23.4142083",
+   "category": "aeroway",
+   "type": "aerodrome",
+   "place_rank": 30,
+   "importance": 0.4900079648402247,
+   "addresstype": "aeroway",
+   "name": "Летище „Васил Левски“ - София",
+   "display_name": "Летище „Васил Левски“ - София, Източна тангента, кв. Христо Ботев, София, Район Слатина, Столична, София-град, 1754, България",
+   "boundingbox": [
+    "42.6864020",
+    "42.7045655",
+    "23.3841912",
+    "23.4513881"
+   ]
+  }
+ ],
+ "BG|Харманли, България": [
+  {
+   "place_id": 59471119,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 273488742,
+   "lat": "41.9302645",
+   "lon": "25.9015211",
+   "category": "place",
+   "type": "town",
+   "place_rank": 18,
+   "importance": 0.5035510414262847,
+   "addresstype": "town",
+   "name": "Харманли",
+   "display_name": "Харманли, Хасково, 6450, България",
+   "boundingbox": [
+    "41.8902645",
+    "41.9702645",
+    "25.8615211",
+    "25.9415211"
+   ]
+  }
+ ],
+ "BG|Баня, Нова Загора": [
+  {
+   "place_id": 60117655,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 273880762,
+   "lat": "42.6079199",
+   "lon": "25.9899799",
+   "category": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.3436304091577327,
+   "addresstype": "village",
+   "name": "Баня",
+   "display_name": "Баня, Нова Загора, Сливен, 8914, България",
+   "boundingbox": [
+    "42.5879199",
+    "42.6279199",
+    "25.9699799",
+    "26.0099799"
+   ]
+  }
+ ],
+ "BG|Пъстрогор, Свиленград": [
+  {
+   "place_id": 59422362,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 13431008,
+   "lat": "41.8431701",
+   "lon": "26.1982499",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.34188389141160974,
+   "addresstype": "village",
+   "name": "Пъстрогор",
+   "display_name": "Пъстрогор, Свиленград, Хасково, България",
+   "boundingbox": [
+    "41.8232246",
+    "41.9078417",
+    "26.1797118",
+    "26.2391815"
+   ]
+  }
+ ],
+ "GR|Νέα Χηλή, Αλεξανδρούπολη": [],
+ "GR|Πόντου 5, Αμπελόκηποι, Θεσσαλονίκη": [],
+ "GR|Καποδιστρίου 92, Πάτρα": [
+  {
+   "place_id": 56070706,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 32097537,
+   "lat": "38.2383104",
+   "lon": "21.7318393",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05340045700770577,
+   "addresstype": "residential",
+   "name": "Καποδιστρίου",
+   "display_name": "Καποδιστρίου, Αγία Βαρβάρα, Υψηλά Αλώνια, 4η Κοινότητα Πατρών - Κεντρικός Τομέας, Δημοτική Ενότητα Πατρέων, Δήμος Πατρέων, Περιφερειακή Ενότητα Αχαΐας, Περιφέρεια Δυτικής Ελλάδας, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 262 22, Ελλάς",
+   "boundingbox": [
+    "38.2377944",
+    "38.2388264",
+    "21.7275036",
+    "21.7361749"
+   ]
+  }
+ ],
+ "GR|Καμίνια, Ηράκλειο": [
+  {
+   "place_id": 54753754,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 356041965,
+   "lat": "35.3381183",
+   "lon": "25.1288780",
+   "category": "tourism",
+   "type": "hotel",
+   "place_rank": 30,
+   "importance": 6.63607232775924e-05,
+   "addresstype": "tourism",
+   "name": "Ηράκλειο",
+   "display_name": "Ηράκλειο, 128, Καλοκαιρινού, Καμίνια, 3η Κοινότητα Ηρακλείου - Δυτική, Δημοτική Ενότητα Ηρακλείου, Δήμος Ηρακλείου, Περιφερειακή Ενότητα Ηρακλείου, Περιφέρεια Κρήτης, Αποκεντρωμένη Διοίκηση Κρήτης, 712 02, Ελλάς",
+   "boundingbox": [
+    "35.3380294",
+    "35.3382305",
+    "25.1287996",
+    "25.1289543"
+   ]
+  }
+ ],
+ "GR|Παναγιώτη Κανελλοπούλου 2, Αθήνα": [
+  {
+   "place_id": 55461420,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 452980891,
+   "lat": "37.9917000",
+   "lon": "23.7765274",
+   "category": "building",
+   "type": "civic",
+   "place_rank": 30,
+   "importance": 8.327382314789071e-05,
+   "addresstype": "building",
+   "name": "Κεντρική Υπηρεσία Ασύλου",
+   "display_name": "Κεντρική Υπηρεσία Ασύλου, 2, Παναγιώτη Κανελλόπουλου, Γουδή, Αμπελόκηποι, 7η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 25, Ελλάς",
+   "boundingbox": [
+    "37.9913185",
+    "37.9921026",
+    "23.7761844",
+    "23.7767927"
+   ]
+  }
+ ],
+ "GR|Νοταρά 106, Πειραιάς": [
+  {
+   "place_id": 55834485,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 25369843,
+   "lat": "37.9452714",
+   "lon": "23.6472242",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.053416607156481236,
+   "addresstype": "residential",
+   "name": "Ναυάρχου Νοταρά",
+   "display_name": "Ναυάρχου Νοταρά, Τερψιθέα, 2η Κοινότητα Πειραιά, Πειραιάς, Δήμος Πειραιώς, Περιφερειακή Ενότητα Πειραιώς, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 158 31, Ελλάς",
+   "boundingbox": [
+    "37.9436195",
+    "37.9469205",
+    "23.6458101",
+    "23.6486418"
+   ]
+  }
+ ],
+ "GR|Δωδεκανήσου 6, Άλιμος": [
+  {
+   "place_id": 56060561,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 9125219,
+   "lat": "37.9271842",
+   "lon": "23.7424453",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 8.327382314789071e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "6, Δωδεκανήσου, Τράχωνες, Άνω Καλαμάκι, Δήμος Αλίμου, Περιφερειακή Ενότητα Νοτίου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 173 42, Ελλάς",
+   "boundingbox": [
+    "37.9269653",
+    "37.9274510",
+    "23.7421360",
+    "23.7428423"
+   ]
+  }
+ ],
+ "GR|Παγανή, Μυτιλήνη": [
+  {
+   "place_id": 55368528,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3038719730,
+   "lat": "39.1098413",
+   "lon": "26.5275375",
+   "category": "place",
+   "type": "locality",
+   "place_rank": 25,
+   "importance": 0.06672938200961318,
+   "addresstype": "locality",
+   "name": "Παγανή",
+   "display_name": "Παγανή, Αλυφαντά, Δημοτική Ενότητα Μυτιλήνης, Δήμος Μυτιλήνης, Περιφερειακή Ενότητα Λέσβου, Περιφέρεια Βόρειου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 811 00, Ελλάς",
+   "boundingbox": [
+    "39.0998413",
+    "39.1198413",
+    "26.5175375",
+    "26.5375375"
+   ]
+  }
+ ],
+ "GR|Κοντάρι, Χίος": [],
+ "GR|Λυκούργου Λογοθέτη, Σάμος": [
+  {
+   "place_id": 54947385,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 37594392,
+   "lat": "37.7569725",
+   "lon": "26.9749338",
+   "category": "highway",
+   "type": "pedestrian",
+   "place_rank": 26,
+   "importance": 0.05338965362020291,
+   "addresstype": "pedestrian",
+   "name": "Λυκούργου Λογοθέτη",
+   "display_name": "Λυκούργου Λογοθέτη, Μελεμενέικα, Σάμος, Δημοτική Ενότητα Βαθέος, Δήμος Ανατολικής Σάμου, Περιφερειακή Ενότητα Σάμου, Περιφέρεια Βόρειου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 831 00, Ελλάς",
+   "boundingbox": [
+    "37.7565194",
+    "37.7574693",
+    "26.9739347",
+    "26.9759563"
+   ]
+  }
+ ],
+ "GR|Λέρος, Ελλάδα": [
+  {
+   "place_id": 56123035,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2927914737,
+   "lat": "37.9933789",
+   "lon": "23.5389128",
+   "category": "place",
+   "type": "islet",
+   "place_rank": 20,
+   "importance": 0.2954185985350713,
+   "addresstype": "islet",
+   "name": "Λέρος",
+   "display_name": "Λέρος, Κοινότητα Σαλαμίνας, Δημοτική Ενότητα Σαλαμίνας, Δήμος Σαλαμίνας, Περιφερειακή Ενότητα Νήσων, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 189 01, Ελλάς",
+   "boundingbox": [
+    "37.9933289",
+    "37.9934289",
+    "23.5388628",
+    "23.5389628"
+   ]
+  }
+ ],
+ "GR|Κολοκοτρώνη 13, Ρόδος": [
+  {
+   "place_id": 54968160,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 710621530,
+   "lat": "36.3848304",
+   "lon": "28.1402632",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05340372549019604,
+   "addresstype": "residential",
+   "name": "Κολοκοτρώνη",
+   "display_name": "Κολοκοτρώνη, Ρόδος, Παστίδα, Δήμος Ρόδου, Περιφερειακή Ενότητα Ρόδου, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 851 06, Ελλάς",
+   "boundingbox": [
+    "36.3845288",
+    "36.3851716",
+    "28.1401079",
+    "28.1402882"
+   ]
+  }
+ ],
+ "GR|Πυλί, Κως": [
+  {
+   "place_id": 55017424,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 77831796,
+   "lat": "36.8460617",
+   "lon": "27.1603596",
+   "category": "place",
+   "type": "town",
+   "place_rank": 18,
+   "importance": 0.26704010519783294,
+   "addresstype": "town",
+   "name": "Πυλί",
+   "display_name": "Πυλί, Δήμος Κω, Περιφερειακή Ενότητα Κω, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 853 00, Ελλάς",
+   "boundingbox": [
+    "36.8060617",
+    "36.8860617",
+    "27.1203596",
+    "27.2003596"
+   ]
+  }
+ ],
+ "GR|Ξάνθη, Ελλάδα": [
+  {
+   "place_id": 59167421,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 137705481,
+   "lat": "41.1380500",
+   "lon": "24.8864089",
+   "category": "place",
+   "type": "city",
+   "place_rank": 16,
+   "importance": 0.5358252428318324,
+   "addresstype": "city",
+   "name": "Ξάνθη",
+   "display_name": "Ξάνθη, Δημοτική Ενότητα Ξάνθης, Δήμος Ξάνθης, Περιφερειακή Ενότητα Ξάνθης, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 671 00, Ελλάς",
+   "boundingbox": [
+    "40.9780500",
+    "41.2980500",
+    "24.7264089",
+    "25.0464089"
+   ]
+  }
+ ],
+ "GR|Πέραμα, Ιωάννινα": [
+  {
+   "place_id": 56037849,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 247068203,
+   "lat": "39.6932587",
+   "lon": "20.8457437",
+   "category": "place",
+   "type": "town",
+   "place_rank": 18,
+   "importance": 0.16006373159380483,
+   "addresstype": "town",
+   "name": "Πέραμα",
+   "display_name": "Πέραμα, Δημοτική Ενότητα Περάματος, Δήμος Ιωαννιτών, Περιφερειακή Ενότητα Ιωαννίνων, Περιφέρεια Ηπείρου, Αποκεντρωμένη Διοίκηση Ηπείρου - Δυτικής Μακεδονίας, 455 00, Ελλάς",
+   "boundingbox": [
+    "39.6532587",
+    "39.7332587",
+    "20.8057437",
+    "20.8857437"
+   ]
+  }
+ ],
+ "GR|Ανδρέου Γεωργίου 26, Θεσσαλονίκη": [],
+ "GR|Λιοσίων 145, Αθήνα": [
+  {
+   "place_id": 26292574,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 153244164,
+   "lat": "37.9982090",
+   "lon": "23.7221673",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "145, Λιοσίων, Θυμαράκια, Κολωνός, 4η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 104 45, Ελλάς",
+   "boundingbox": [
+    "37.9981590",
+    "37.9982590",
+    "23.7221173",
+    "23.7222173"
+   ]
+  }
+ ],
+ "GR|Φυλάκιο, Έβρος": [],
+ "GR|Χαλκειός, Χίος": [],
+ "RS|Народних хероја 4, Нови Београд": [
+  {
+   "place_id": 64369004,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 396881606,
+   "lat": "44.8253958",
+   "lon": "20.4077378",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 8.159685664144377e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "4, Народних хероја, МЗ Студентски град, Градска општина Нови Београд, Београд, Град Београд, Централна Србија, 11070, Србија",
+   "boundingbox": [
+    "44.8252839",
+    "44.8255077",
+    "20.4075618",
+    "20.4079139"
+   ]
+  }
+ ],
+ "RS|Бања Ковиљача, Лозница": [
+  {
+   "place_id": 65345735,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8644230,
+   "lat": "44.5138269",
+   "lon": "19.1585984",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.46840590773058643,
+   "addresstype": "town",
+   "name": "Бања Ковиљача",
+   "display_name": "Бања Ковиљача, Град Лозница, Мачвански управни округ, Централна Србија, 15316, Србија",
+   "boundingbox": [
+    "44.4868259",
+    "44.5310978",
+    "19.1273843",
+    "19.1823354"
+   ]
+  }
+ ],
+ "RS|Сјеница, Србија": [
+  {
+   "place_id": 58071671,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8035123,
+   "lat": "43.2729348",
+   "lon": "19.9991727",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.5311365362432198,
+   "addresstype": "town",
+   "name": "Сјеница",
+   "display_name": "Сјеница, Општина Сјеница, Златиборски управни округ, Централна Србија, 36310, Србија",
+   "boundingbox": [
+    "43.2457362",
+    "43.2955567",
+    "19.9550055",
+    "20.0623412"
+   ]
+  }
+ ],
+ "RS|Обреновац, Београд": [
+  {
+   "place_id": 63729196,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1443789329,
+   "lat": "44.6750954",
+   "lon": "20.2005303",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339122835126265,
+   "addresstype": "residential",
+   "name": "Проте Матеје Ненадовића",
+   "display_name": "Проте Матеје Ненадовића, Забрежје, Градска општина Обреновац, Град Београд, Централна Србија, 11500, Србија",
+   "boundingbox": [
+    "44.6701166",
+    "44.6800750",
+    "20.1996858",
+    "20.2013833"
+   ]
+  }
+ ],
+ "RS|Врање, Србија": [
+  {
+   "place_id": 57127260,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 10275949,
+   "lat": "42.5543511",
+   "lon": "21.8979003",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.56361935646208,
+   "addresstype": "city",
+   "name": "Градска општина Врање",
+   "display_name": "Градска општина Врање, Град Врање, Пчињски управни округ, Централна Србија, Србија",
+   "boundingbox": [
+    "42.4004300",
+    "42.7965662",
+    "21.7533299",
+    "22.1134656"
+   ]
+  }
+ ],
+ "BG|кв. Враждебна, София": [
+  {
+   "place_id": 58577969,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 16890830,
+   "lat": "42.7100916",
+   "lon": "23.4076453",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.3446563915113022,
+   "addresstype": "suburb",
+   "name": "кв. Враждебна",
+   "display_name": "кв. Враждебна, София, Район Кремиковци, Столична, София-град, България",
+   "boundingbox": [
+    "42.7030498",
+    "42.7180841",
+    "23.3914671",
+    "23.4224867"
+   ]
+  }
+ ],
+ "GR|Νέα Χιλή, Αλεξανδρούπολη": [],
+ "GR|Αλεξανδρούπολη": [
+  {
+   "place_id": 59004560,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 139260064,
+   "lat": "40.8456660",
+   "lon": "25.8778814",
+   "category": "place",
+   "type": "city",
+   "place_rank": 16,
+   "importance": 0.5369152630147475,
+   "addresstype": "city",
+   "name": "Αλεξανδρούπολη",
+   "display_name": "Αλεξανδρούπολη, Δήμος Αλεξανδρούπολης, Περιφερειακή Ενότητα Έβρου, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 681 00, Ελλάς",
+   "boundingbox": [
+    "40.6856660",
+    "41.0056660",
+    "25.7178814",
+    "26.0378814"
+   ]
+  }
+ ],
+ "GR|Πόντου, Μενεμένη": [],
+ "GR|Πόντου, Θεσσαλονίκη": [
+  {
+   "place_id": 59129176,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 404466753,
+   "lat": "40.5864603",
+   "lon": "22.9530078",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05340738612954906,
+   "addresstype": "secondary",
+   "name": "Πόντου",
+   "display_name": "Πόντου, Κέντρο, Δήμος Καλαμαριάς, Θεσσαλονίκη, Θέρμη, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 570 01, Ελλάς",
+   "boundingbox": [
+    "40.5843836",
+    "40.5885373",
+    "22.9529097",
+    "22.9531220"
+   ]
+  }
+ ],
+ "GR|Λευκωνιά, Χίος": [
+  {
+   "place_id": 55571135,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 11262566,
+   "lat": "38.3442730",
+   "lon": "26.1411099",
+   "category": "aeroway",
+   "type": "aerodrome",
+   "place_rank": 30,
+   "importance": 0.4086789983126955,
+   "addresstype": "aeroway",
+   "name": "Κρατικός Αερολιμένας Χίου «Όμηρος»",
+   "display_name": "Κρατικός Αερολιμένας Χίου «Όμηρος», Ενώσεως, Λευκωνιά, Καρφάς, Δήμος Χίου, Περιφερειακή Ενότητα Χίου, Περιφέρεια Βόρειου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 821 00, Ελλάς",
+   "boundingbox": [
+    "38.3335443",
+    "38.3545030",
+    "26.1377332",
+    "26.1436507"
+   ]
+  }
+ ],
+ "GR|Λέρος, Δωδεκάνησα": [],
+ "GR|Δήμος Λέρου": [
+  {
+   "place_id": 54919975,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5321392,
+   "lat": "37.0079289",
+   "lon": "26.4675911",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5175381233343533,
+   "addresstype": "municipality",
+   "name": "Δήμος Λέρου",
+   "display_name": "Δήμος Λέρου, Περιφερειακή Ενότητα Καλύμνου, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, Ελλάς",
+   "boundingbox": [
+    "36.8991884",
+    "37.3073353",
+    "26.1621253",
+    "27.1036103"
+   ]
+  }
+ ],
+ "GR|Ρόδος, Δήμος Ρόδου": [
+  {
+   "place_id": 58031640,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 126244310,
+   "lat": "36.4437233",
+   "lon": "28.2273690",
+   "category": "place",
+   "type": "city",
+   "place_rank": 16,
+   "importance": 0.5581742793105882,
+   "addresstype": "city",
+   "name": "Ρόδος",
+   "display_name": "Ρόδος, Δημοτική Ενότητα Ρόδου, Δήμος Ρόδου, Περιφερειακή Ενότητα Ρόδου, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 851 00, Ελλάς",
+   "boundingbox": [
+    "36.2837233",
+    "36.6037233",
+    "28.0673690",
+    "28.3873690"
+   ]
+  }
+ ],
+ "GR|Ανδρέου Γεωργίου, Θεσσαλονίκη": [],
+ "GR|Θεσσαλονίκη": [
+  {
+   "place_id": 58997488,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 57554537,
+   "lat": "40.6403167",
+   "lon": "22.9352716",
+   "category": "place",
+   "type": "city",
+   "place_rank": 16,
+   "importance": 0.7032802514986225,
+   "addresstype": "city",
+   "name": "Θεσσαλονίκη",
+   "display_name": "Θεσσαλονίκη, Δημοτική Ενότητα Θεσαλονίκης, Δήμος Θεσσαλονίκης, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 540 12, Ελλάς",
+   "boundingbox": [
+    "40.4803167",
+    "40.8003167",
+    "22.7752716",
+    "23.0952716"
+   ]
+  }
+ ],
+ "GR|Φυλάκιο, Ορεστιάδα": [
+  {
+   "place_id": 59271440,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 299266593,
+   "lat": "41.5914117",
+   "lon": "26.3134231",
+   "category": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.30663527500158994,
+   "addresstype": "village",
+   "name": "Φυλάκιο",
+   "display_name": "Φυλάκιο, Δήμος Ορεστιάδας, Περιφερειακή Ενότητα Έβρου, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 680 06, Ελλάς",
+   "boundingbox": [
+    "41.5714117",
+    "41.6114117",
+    "26.2934231",
+    "26.3334231"
+   ]
+  }
+ ],
+ "GR|Chalkeios, Chios": [],
+ "GR|Χαλκειός": [],
+ "RS|Обреновац": [
+  {
+   "place_id": 64045607,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8700913,
+   "lat": "44.6548330",
+   "lon": "20.2014318",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.5185236849326308,
+   "addresstype": "town",
+   "name": "Обреновац",
+   "display_name": "Обреновац, Градска општина Обреновац, Град Београд, Централна Србија, 11500, Србија",
+   "boundingbox": [
+    "44.6427225",
+    "44.6760861",
+    "20.1753438",
+    "20.2493045"
+   ]
+  }
+ ],
+ "GR|Πόντου, Αμπελόκηποι": [
+  {
+   "place_id": 55734243,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 32069118,
+   "lat": "37.9810693",
+   "lon": "23.7593955",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.053416607156481236,
+   "addresstype": "residential",
+   "name": "Πόντου",
+   "display_name": "Πόντου, Γουδή, Αμπελόκηποι, 7η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 28, Ελλάς",
+   "boundingbox": [
+    "37.9795568",
+    "37.9825818",
+    "23.7559586",
+    "23.7628324"
+   ]
+  }
+ ],
+ "GR|Λαχαναγορά, Θεσσαλονίκη": [],
+ "GR|Δήμος Αμπελοκήπων - Μενεμένης": [
+  {
+   "place_id": 59043135,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 2348441,
+   "lat": "40.6561746",
+   "lon": "22.9051240",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.406866891643569,
+   "addresstype": "municipality",
+   "name": "Δήμος Αμπελοκήπων - Μενεμένης",
+   "display_name": "Δήμος Αμπελοκήπων - Μενεμένης, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, Ελλάς",
+   "boundingbox": [
+    "40.6400828",
+    "40.6722087",
+    "22.8612712",
+    "22.9352553"
+   ]
+  }
+ ],
+ "GR|Chalkios, Chios": [],
+ "GR|Χαλκιός, Χίος": [],
+ "GR|Χίος": [
+  {
+   "place_id": 55591365,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3188280,
+   "lat": "38.3758132",
+   "lon": "26.0646552",
+   "category": "place",
+   "type": "island",
+   "place_rank": 17,
+   "importance": 0.5958152907013208,
+   "addresstype": "island",
+   "name": "Χίος",
+   "display_name": "Χίος, Περιφερειακή Ενότητα Χίου, Περιφέρεια Βόρειου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, Ελλάς",
+   "boundingbox": [
+    "38.1469671",
+    "38.6046515",
+    "25.8307639",
+    "26.1631665"
+   ]
+  }
+ ],
+ "SI|Cesta v Gorice 15, Ljubljana": [
+  {
+   "place_id": 68754714,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 250924617,
+   "lat": "46.0292862",
+   "lon": "14.4661458",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 7.541695277328172e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "15, Cesta v Gorice, Bonifacija, Četrtna skupnost Vič, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+   "boundingbox": [
+    "46.0291616",
+    "46.0294038",
+    "14.4658145",
+    "14.4663325"
+   ]
+  }
+ ],
+ "HR|Sarajevska 41, Zagreb": [
+  {
+   "place_id": 65486769,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 219879036,
+   "lat": "45.7582024",
+   "lon": "16.0066458",
+   "category": "amenity",
+   "type": "social_facility",
+   "place_rank": 30,
+   "importance": 7.947737849999263e-05,
+   "addresstype": "amenity",
+   "name": "Prihvatilište za tražitelje azila Zagreb (Porin)",
+   "display_name": "Prihvatilište za tražitelje azila Zagreb (Porin), 41, Sarajevska cesta, Mjesni odbor Hrelić, Gradska četvrt Novi Zagreb - istok, Zagreb, Grad Zagreb, 10162, Hrvatska",
+   "boundingbox": [
+    "45.7580257",
+    "45.7585428",
+    "16.0064967",
+    "16.0074297"
+   ]
+  }
+ ],
+ "HR|Sisačka 3, Kutina": [
+  {
+   "place_id": 66006401,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 238252134,
+   "lat": "45.4699287",
+   "lon": "16.7740680",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05339203860532536,
+   "addresstype": "primary",
+   "name": "Sisačka ulica",
+   "display_name": "Sisačka ulica, Sečevine, Kutina, Grad Kutina, Sisačko-moslavačka županija, 44320, Hrvatska",
+   "boundingbox": [
+    "45.4672539",
+    "45.4727398",
+    "16.7718255",
+    "16.7761200"
+   ]
+  }
+ ],
+ "AL|Rruga Myslym Keta, Tiranë": [
+  {
+   "place_id": 56628587,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 45317104,
+   "lat": "41.3572605",
+   "lon": "19.8475932",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05340471122301057,
+   "addresstype": "primary",
+   "name": "Rruga Myslym Keta",
+   "display_name": "Rruga Myslym Keta, Kinostudio, Njësia Bashkiake Nr. 4, Tiranë, Bashkia Tiranë, Qarku i Tiranës, 1700, Shqipëria",
+   "boundingbox": [
+    "41.3516009",
+    "41.3616144",
+    "19.8447600",
+    "19.8518917"
+   ]
+  }
+ ],
+ "MK|Димче Мирчев 9, Скопје": [
+  {
+   "place_id": 58856627,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1319221055,
+   "lat": "41.9869061",
+   "lon": "21.4290114",
+   "category": "office",
+   "type": "government",
+   "place_rank": 30,
+   "importance": 0.3307177672703685,
+   "addresstype": "office",
+   "name": "Министерсво за внатрешни работи",
+   "display_name": "Министерсво за внатрешни работи, 9, Димче Мирчев, Тасино Чешмиче, Центар, Општина Центар, Скопје, Град Скопје, 1000, Северна Македонија",
+   "boundingbox": [
+    "41.9859561",
+    "41.9879350",
+    "21.4273710",
+    "21.4306914"
+   ]
+  }
+ ],
+ "MK|Винојуг, Гевгелија": [
+  {
+   "place_id": 58903362,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 405709487,
+   "lat": "41.1322843",
+   "lon": "22.5158268",
+   "category": "amenity",
+   "type": "social_facility",
+   "place_rank": 30,
+   "importance": 5.6747539482673646e-05,
+   "addresstype": "amenity",
+   "name": "Прифатен центар \"Винојуг\"",
+   "display_name": "Прифатен центар \"Винојуг\", Мечкин Камен, Гевгелија, Општина Гевгелија, 1480, Северна Македонија",
+   "boundingbox": [
+    "41.1316975",
+    "41.1329273",
+    "22.5144336",
+    "22.5181457"
+   ]
+  }
+ ],
+ "ME|Bulevar Svetog Petra Cetinjskog 22, Podgorica": [
+  {
+   "place_id": 56941238,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 374558399,
+   "lat": "42.4422012",
+   "lon": "19.2509853",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05340401388570989,
+   "addresstype": "secondary",
+   "name": "Bulevar Svetog Petra Cetinjskog",
+   "display_name": "Bulevar Svetog Petra Cetinjskog, Stara varoš, Podgorica, Glavni grad Podgorica, 81107, Crna Gora / Црна Гора",
+   "boundingbox": [
+    "42.4413964",
+    "42.4429993",
+    "19.2482279",
+    "19.2537407"
+   ]
+  }
+ ],
+ "ME|Spuž, Danilovgrad": [
+  {
+   "place_id": 57508679,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 446301675,
+   "lat": "42.5107033",
+   "lon": "19.1969185",
+   "category": "place",
+   "type": "town",
+   "place_rank": 18,
+   "importance": 0.16004000076295108,
+   "addresstype": "town",
+   "name": "Spuž",
+   "display_name": "Spuž, Opština Danilovgrad, 81412, Crna Gora / Црна Гора",
+   "boundingbox": [
+    "42.4707033",
+    "42.5507033",
+    "19.1569185",
+    "19.2369185"
+   ]
+  }
+ ],
+ "ME|Božaj, Tuzi": [
+  {
+   "place_id": 56981192,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8599551830,
+   "lat": "42.3109835",
+   "lon": "19.3808267",
+   "category": "place",
+   "type": "hamlet",
+   "place_rank": 20,
+   "importance": 0.13336833524071104,
+   "addresstype": "hamlet",
+   "name": "Božaj",
+   "display_name": "Božaj, Opština Tuzi, Crna Gora / Црна Гора",
+   "boundingbox": [
+    "42.2909835",
+    "42.3309835",
+    "19.3608267",
+    "19.4008267"
+   ]
+  }
+ ],
+ "XK|Ministria e Punëve të Brendshme, Prishtinë": [
+  {
+   "place_id": 57505070,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 409057475,
+   "lat": "42.6624099",
+   "lon": "21.1587572",
+   "category": "office",
+   "type": "government",
+   "place_rank": 30,
+   "importance": 6.670252536807839e-05,
+   "addresstype": "office",
+   "name": "Ministria e Punëve të Brendshme (MPB)",
+   "display_name": "Ministria e Punëve të Brendshme (MPB), Luan Haradinaj, Qendra, Prishtinë, Komuna e Prishtinës / Opština Priština, Rajoni i Prishtinës / Prištinski okrug, 10000, Kosova / Kosovo",
+   "boundingbox": [
+    "42.6622561",
+    "42.6625718",
+    "21.1585011",
+    "21.1590084"
+   ]
+  }
+ ],
+ "XK|Magurë, Lipjan": [
+  {
+   "place_id": 57473269,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8634444,
+   "lat": "42.5366070",
+   "lon": "21.0105862",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.32901661879114147,
+   "addresstype": "village",
+   "name": "Magurë",
+   "display_name": "Magurë, Komuna e Lipjanit / Opština Lipljan, Rajoni i Prishtinës / Prištinski okrug, Kosova / Kosovo",
+   "boundingbox": [
+    "42.5319318",
+    "42.5548609",
+    "20.9847028",
+    "21.0271996"
+   ]
+  }
+ ],
+ "XK|Vranidoll": [
+  {
+   "place_id": 57593832,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4081920164,
+   "lat": "42.7685461",
+   "lon": "21.1501633",
+   "category": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.34045234732906265,
+   "addresstype": "village",
+   "name": "Vranidoll",
+   "display_name": "Vranidoll, Komuna e Prishtinës / Opština Priština, Rajoni i Prishtinës / Prištinski okrug, 10000, Kosova / Kosovo",
+   "boundingbox": [
+    "42.7485461",
+    "42.7885461",
+    "21.1301633",
+    "21.1701633"
+   ]
+  }
+ ],
+ "BA|Michael Schumacher 10, Sarajevo": [
+  {
+   "place_id": 56965923,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 837864127,
+   "lat": "43.8296426",
+   "lon": "18.3344237",
+   "category": "office",
+   "type": "government",
+   "place_rank": 30,
+   "importance": 7.746623941400805e-05,
+   "addresstype": "office",
+   "name": "Služba za poslove sa strancima BiH",
+   "display_name": "Služba za poslove sa strancima BiH, 10, Michaela Schumachera, Dobrinja V, Nedžarići, Sarajevo, Općina Novi Grad, Grad Sarajevo, Kanton Sarajevo, Federacija Bosne i Hercegovine, 71214, Bosna i Hercegovina / Босна и Херцеговина",
+   "boundingbox": [
+    "43.8293742",
+    "43.8299419",
+    "18.3341963",
+    "18.3346512"
+   ]
+  }
+ ],
+ "BA|Blažuj, Ilidža": [
+  {
+   "place_id": 57228343,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 89087032,
+   "lat": "43.8401451",
+   "lon": "18.2580220",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467231548027771,
+   "addresstype": "suburb",
+   "name": "Blažuj",
+   "display_name": "Blažuj, Ilidža, Općina Ilidža, Kanton Sarajevo, Federacija Bosne i Hercegovine, 71215, Bosna i Hercegovina / Босна и Херцеговина",
+   "boundingbox": [
+    "43.8201451",
+    "43.8601451",
+    "18.2380220",
+    "18.2780220"
+   ]
+  }
+ ],
+ "BA|Ušivak, Hadžići": [
+  {
+   "place_id": 56608987,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2537265411,
+   "lat": "43.8228323",
+   "lon": "18.2246184",
+   "category": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.14672206530861368,
+   "addresstype": "village",
+   "name": "Ušivak",
+   "display_name": "Ušivak, Općina Hadžići, Kanton Sarajevo, Federacija Bosne i Hercegovine, 71240, Bosna i Hercegovina / Босна и Херцеговина",
+   "boundingbox": [
+    "43.8028323",
+    "43.8428323",
+    "18.2046184",
+    "18.2446184"
+   ]
+  }
+ ],
+ "BA|Lipa, Bihać": [
+  {
+   "place_id": 65777153,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2538495914,
+   "lat": "44.6910234",
+   "lon": "16.0846352",
+   "category": "place",
+   "type": "locality",
+   "place_rank": 25,
+   "importance": 0.06670416800183107,
+   "addresstype": "locality",
+   "name": "Lipa",
+   "display_name": "Lipa, Grad Bihać, Unsko-sanski kanton, Federacija Bosne i Hercegovine, Bosna i Hercegovina / Босна и Херцеговина",
+   "boundingbox": [
+    "44.6810234",
+    "44.7010234",
+    "16.0746352",
+    "16.0946352"
+   ]
+  }
+ ],
+ "RO|Strada Locotenent Colonel Constantin Marinescu 15A, București": [
+  {
+   "place_id": 60875994,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 184881874,
+   "lat": "44.4213676",
+   "lon": "26.0601147",
+   "category": "amenity",
+   "type": "police",
+   "place_rank": 30,
+   "importance": 8.015335317001629e-05,
+   "addresstype": "amenity",
+   "name": "Inspectoratul General pentru Imigrări",
+   "display_name": "Inspectoratul General pentru Imigrări, 15A, Strada Locotenent Colonel Constantin Marinescu, 13 Septembrie, Sector 6, București, 060155, România",
+   "boundingbox": [
+    "44.4212530",
+    "44.4214823",
+    "26.0600225",
+    "26.0602068"
+   ]
+  }
+ ],
+ "RO|Strada Tudor Gociu 24A, București": [
+  {
+   "place_id": 61432966,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9552098400,
+   "lat": "44.3750707",
+   "lon": "26.0944819",
+   "category": "amenity",
+   "type": "social_facility",
+   "place_rank": 30,
+   "importance": 8.015335317001629e-05,
+   "addresstype": "amenity",
+   "name": "Centre Regionale de Proceduri și Cazare pentru Solicitanții de Azil",
+   "display_name": "Centre Regionale de Proceduri și Cazare pentru Solicitanții de Azil, 24A, sector 4, Strada Tudor Gociu, Progresul, Sector 4, București, 041044, România",
+   "boundingbox": [
+    "44.3750207",
+    "44.3751207",
+    "26.0944319",
+    "26.0945319"
+   ]
+  }
+ ],
+ "RO|Strada Vasile Stolnicul 15, București": [
+  {
+   "place_id": 61207904,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 23697520,
+   "lat": "44.4540544",
+   "lon": "26.1467141",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341348668650336,
+   "addresstype": "residential",
+   "name": "Strada Stolnicul Vasile",
+   "display_name": "Strada Stolnicul Vasile, Baicului, Sector 2, București, 023411, România",
+   "boundingbox": [
+    "44.4535891",
+    "44.4542072",
+    "26.1462164",
+    "26.1473291"
+   ]
+  }
+ ],
+ "RO|Strada Săvinești 2, Galați": [],
+ "RO|Săvinești, Galați": [
+  {
+   "place_id": 61142321,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 32112571,
+   "lat": "45.4140429",
+   "lon": "28.0219536",
+   "category": "highway",
+   "type": "service",
+   "place_rank": 27,
+   "importance": 0.04006730067902647,
+   "addresstype": "road",
+   "name": "Săvinești",
+   "display_name": "Săvinești, Micro 19, Galați, 800601, România",
+   "boundingbox": [
+    "45.4135112",
+    "45.4145294",
+    "28.0216587",
+    "28.0221639"
+   ]
+  }
+ ],
+ "RO|Strada Perilor 2, Rădăuți": [
+  {
+   "place_id": 62761954,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9552114668,
+   "lat": "47.8400419",
+   "lon": "25.9263182",
+   "category": "amenity",
+   "type": "social_facility",
+   "place_rank": 30,
+   "importance": 5.72373540855576e-05,
+   "addresstype": "amenity",
+   "name": "Регіональни центр процедур та розміщення шукачів притулку",
+   "display_name": "Регіональни центр процедур та розміщення шукачів притулку, 2, Strada Perilor, Rădăuți, Suceava, 725400, România",
+   "boundingbox": [
+    "47.8399919",
+    "47.8400919",
+    "25.9262682",
+    "25.9263682"
+   ]
+  }
+ ],
+ "RO|Strada Cetății 1A, Șomcuta Mare": [
+  {
+   "place_id": 63266490,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 223273483,
+   "lat": "47.4923408",
+   "lon": "23.4691763",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.053387929350728586,
+   "addresstype": "residential",
+   "name": "Strada Cetății",
+   "display_name": "Strada Cetății, Șomcuta Mare, Maramureș, 437335, România",
+   "boundingbox": [
+    "47.4917239",
+    "47.4938191",
+    "23.4677098",
+    "23.4701891"
+   ]
+  }
+ ],
+ "RO|Strada Armoniei 33, Timișoara": [
+  {
+   "place_id": 64708994,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9552115915,
+   "lat": "45.7838659",
+   "lon": "21.2241590",
+   "category": "amenity",
+   "type": "social_facility",
+   "place_rank": 30,
+   "importance": 7.018921187147353e-05,
+   "addresstype": "amenity",
+   "name": "Регіональни центр процедур та розміщення шукачів притулку",
+   "display_name": "Регіональни центр процедур та розміщення шукачів притулку, 33, Strada Armoniei, Aradului Vest, Timișoara, Timiș, 300291, România",
+   "boundingbox": [
+    "45.7838159",
+    "45.7839159",
+    "21.2241090",
+    "21.2242090"
+   ]
+  }
+ ],
+ "RO|Bulevardul 1907 1C, Giurgiu": [
+  {
+   "place_id": 60698980,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 23429784,
+   "lat": "43.8861023",
+   "lon": "25.9582104",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339484473945216,
+   "addresstype": "secondary",
+   "name": "Bulevardul 1907",
+   "display_name": "Bulevardul 1907, Istru, Giurgiu, 080024, România",
+   "boundingbox": [
+    "43.8860943",
+    "43.8867966",
+    "25.9535551",
+    "25.9627295"
+   ]
+  }
+ ],
+ "AL|Rruga Skënderbej, Tiranë": [
+  {
+   "place_id": 56167510,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 473743987,
+   "lat": "41.3317435",
+   "lon": "19.8074458",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05340471122301057,
+   "addresstype": "residential",
+   "name": "Rruga Skënderbej",
+   "display_name": "Rruga Skënderbej, Njësia Bashkiake Nr. 10, Tiranë, Bashkia Tiranë, Qarku i Tiranës, 1016, Shqipëria",
+   "boundingbox": [
+    "41.3315170",
+    "41.3319679",
+    "19.8074084",
+    "19.8075013"
+   ]
+  }
+ ],
+ "BA|Fra Anđela Zvizdovića 1, Sarajevo": [
+  {
+   "place_id": 56991854,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 492161572,
+   "lat": "43.8571228",
+   "lon": "18.4059637",
+   "category": "building",
+   "type": "commercial",
+   "place_rank": 30,
+   "importance": 7.746623941400805e-05,
+   "addresstype": "building",
+   "name": "Poslovni centar UNITIC",
+   "display_name": "Poslovni centar UNITIC, 1, Fra Anđela Zvizdovića, Mjesna zajednica Marijin Dvor, Sarajevo, Općina Centar, Grad Sarajevo, Kanton Sarajevo, Federacija Bosne i Hercegovine, 71000, Bosna i Hercegovina / Босна и Херцеговина",
+   "boundingbox": [
+    "43.8567204",
+    "43.8574413",
+    "18.4054153",
+    "18.4065120"
+   ]
+  }
+ ],
+ "BA|Safeta Hadžića 66a, Sarajevo": [
+  {
+   "place_id": 56945791,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 10151100,
+   "lat": "43.8415768",
+   "lon": "18.3540156",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05341079957274735,
+   "addresstype": "primary",
+   "name": "Safeta Hadžića",
+   "display_name": "Safeta Hadžića, Faza C, Mojmilo brdo, Švrakino selo, Sarajevo, Općina Novi Grad, Grad Sarajevo, Kanton Sarajevo, Federacija Bosne i Hercegovine, 71160, Bosna i Hercegovina / Босна и Херцеговина",
+   "boundingbox": [
+    "43.8405118",
+    "43.8423840",
+    "18.3504724",
+    "18.3576221"
+   ]
+  }
+ ],
+ "BA|Trg Bosne i Hercegovine 1, Sarajevo": [
+  {
+   "place_id": 56977464,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 23724025,
+   "lat": "43.8551296",
+   "lon": "18.4051839",
+   "category": "office",
+   "type": "government",
+   "place_rank": 30,
+   "importance": 0.3626429788867404,
+   "addresstype": "office",
+   "name": "Zgrada prijateljstva između Grčke i Bosne i Hercegovine",
+   "display_name": "Zgrada prijateljstva između Grčke i Bosne i Hercegovine, 1, Trg Bosne i Hercegovine, Mjesna zajednica Marijin Dvor, Sarajevo, Općina Centar, Grad Sarajevo, Kanton Sarajevo, Federacija Bosne i Hercegovine, 71000, Bosna i Hercegovina / Босна и Херцеговина",
+   "boundingbox": [
+    "43.8549406",
+    "43.8553159",
+    "18.4050172",
+    "18.4053505"
+   ]
+  }
+ ],
+ "BG|площад Позитано 2, София": [],
+ "BG|Pozitano Square, Sofia": [],
+ "BG|улица Триадица 5Б, София": [],
+ "BG|улица Триадица, София": [],
+ "GR|Σολωμού 25, Αθήνα": [
+  {
+   "place_id": 56333562,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5421109128,
+   "lat": "37.9865787",
+   "lon": "23.7324630",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 8.327382314789071e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "25, Σολωμού, Ομόνοια, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 77, Ελλάς",
+   "boundingbox": [
+    "37.9865287",
+    "37.9866287",
+    "23.7324130",
+    "23.7325130"
+   ]
+  }
+ ],
+ "GR|Μητσάκη 15, Αθήνα": [
+  {
+   "place_id": 55763578,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 502841636,
+   "lat": "38.0179816",
+   "lon": "23.7369781",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 8.327382314789071e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "15, Μητσάκη, Άγιος Λουκάς, Άνω Πατήσια, Πατήσια, 5η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 111 44, Ελλάς",
+   "boundingbox": [
+    "38.0179163",
+    "38.0180942",
+    "23.7368699",
+    "23.7371011"
+   ]
+  }
+ ],
+ "HR|Heinzelova 44, Zagreb": [
+  {
+   "place_id": 65735432,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10722701568,
+   "lat": "45.8102942",
+   "lon": "16.0015909",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 7.947737849999263e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "44, Ulica Vjekoslava Heinzela, Mjesni odbor Peščenica, Gradska četvrt Peščenica - Žitnjak, Zagreb, Grad Zagreb, 10240, Hrvatska",
+   "boundingbox": [
+    "45.8102442",
+    "45.8103442",
+    "16.0015409",
+    "16.0016409"
+   ]
+  }
+ ],
+ "HR|Bednjanska 8a, Zagreb": [
+  {
+   "place_id": 79605809,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8520955994,
+   "lat": "45.8030279",
+   "lon": "15.9722615",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 7.947737849999263e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "8A, Bednjanska ulica, Mjesni odbor Martinovka, Gradska četvrt Trnje, Zagreb, Grad Zagreb, 10000, Hrvatska",
+   "boundingbox": [
+    "45.8029779",
+    "45.8030779",
+    "15.9722115",
+    "15.9723115"
+   ]
+  }
+ ],
+ "MK|Донбас 14, Скопје": [
+  {
+   "place_id": 57081602,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 375527589,
+   "lat": "42.0037452",
+   "lon": "21.4178847",
+   "category": "highway",
+   "type": "service",
+   "place_rank": 27,
+   "importance": 0.04007452429999236,
+   "addresstype": "road",
+   "name": "Донбас",
+   "display_name": "Донбас, Дебар Маало, Центар, Општина Центар, Скопје, Град Скопје, 1000, Северна Македонија",
+   "boundingbox": [
+    "42.0036256",
+    "42.0038888",
+    "21.4175669",
+    "21.4182129"
+   ]
+  }
+ ],
+ "MK|Македонско-Косовска Бригада 17, Скопје": [
+  {
+   "place_id": 56956420,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 256948616,
+   "lat": "42.0237035",
+   "lon": "21.4301522",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.053407857633325666,
+   "addresstype": "tertiary",
+   "name": "Македонско-косовска бригада",
+   "display_name": "Македонско-косовска бригада, Момин Поток, Карпош, Скопје, Општина Карпош, Град Скопје, 1009, Северна Македонија",
+   "boundingbox": [
+    "42.0228682",
+    "42.0245343",
+    "21.4299653",
+    "21.4303180"
+   ]
+  }
+ ],
+ "ME|Slobode 2, Podgorica": [
+  {
+   "place_id": 57205600,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 197031531,
+   "lat": "42.4394300",
+   "lon": "19.2627440",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 7.068055237654715e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "2, Slobode, Drač, Stara varoš, Podgorica, Glavni grad Podgorica, 81110, Crna Gora / Црна Гора",
+   "boundingbox": [
+    "42.4392661",
+    "42.4398009",
+    "19.2626042",
+    "19.2633032"
+   ]
+  }
+ ],
+ "ME|Petra Dedića 26, Podgorica": [
+  {
+   "place_id": 56807505,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1091564903,
+   "lat": "42.4235351",
+   "lon": "19.2743030",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05340401388570989,
+   "addresstype": "residential",
+   "name": "Petra Dedića",
+   "display_name": "Petra Dedića, Stari Aerodrom, Podgorica, Glavni grad Podgorica, 81201, Crna Gora / Црна Гора",
+   "boundingbox": [
+    "42.4234974",
+    "42.4235728",
+    "19.2741888",
+    "19.2744172"
+   ]
+  }
+ ],
+ "RO|Strada Alexandrina 20, București": [
+  {
+   "place_id": 61202339,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 501046931,
+   "lat": "44.4646607",
+   "lon": "26.0834352",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 8.015335317001629e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "20-22, Strada Alexandrina, Aviatorilor, Sector 1, București, 011442, România",
+   "boundingbox": [
+    "44.4645429",
+    "44.4647785",
+    "26.0832906",
+    "26.0835797"
+   ]
+  }
+ ],
+ "RO|Strada Viesparilor 19, București": [
+  {
+   "place_id": 61168118,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3453156779,
+   "lat": "44.4502898",
+   "lon": "26.1140042",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 8.015335317001629e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "19, Strada Viesparilor, Piața Gemeni, Ștefan cel Mare, Cartierul Armenesc, Sector 2, București, 020641, România",
+   "boundingbox": [
+    "44.4502398",
+    "44.4503398",
+    "26.1139542",
+    "26.1140542"
+   ]
+  }
+ ],
+ "RS|Булевар Зорана Ђинђића 64, Београд": [
+  {
+   "place_id": 64565011,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 201266389,
+   "lat": "44.8177178",
+   "lon": "20.4199153",
+   "category": "building",
+   "type": "retail",
+   "place_rank": 30,
+   "importance": 8.159685664144377e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "64, Булевар Зорана Ђинђића, МЗ Дунавски кеј, Градска општина Нови Београд, Београд, Град Београд, Централна Србија, 11000, Србија",
+   "boundingbox": [
+    "44.8176116",
+    "44.8180266",
+    "20.4195220",
+    "20.4201835"
+   ]
+  }
+ ],
+ "RS|Тиквешка 26, Београд": [
+  {
+   "place_id": 63820155,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 389445593,
+   "lat": "44.7892284",
+   "lon": "20.4820853",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 8.159685664144377e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "26, Тиквешка, Лекино брдо, МЗ Пашино брдо, Београд (Вождовац), Градска општина Вождовац, Град Београд, Централна Србија, 11040, Србија",
+   "boundingbox": [
+    "44.7891891",
+    "44.7893084",
+    "20.4819923",
+    "20.4821725"
+   ]
+  }
+ ],
+ "RS|Др Александра Костића 8, Београд": [
+  {
+   "place_id": 64379750,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 395051421,
+   "lat": "44.8065395",
+   "lon": "20.4561025",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 8.159685664144377e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "8, Др Александра Костића, МЗ Слободан Пенезић-Крцун, Градска општина Савски венац, Београд, Град Београд, Централна Србија, 11000, Србија",
+   "boundingbox": [
+    "44.8064649",
+    "44.8066134",
+    "20.4559893",
+    "20.4562160"
+   ]
+  }
+ ],
+ "SI|Metelkova ulica 6, Ljubljana": [
+  {
+   "place_id": 68708590,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 186332712,
+   "lat": "46.0561756",
+   "lon": "14.5165259",
+   "category": "building",
+   "type": "office",
+   "place_rank": 30,
+   "importance": 7.541695277328172e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "6, Metelkova ulica, Tabor, Poljane, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+   "boundingbox": [
+    "46.0560720",
+    "46.0562970",
+    "14.5161822",
+    "14.5168742"
+   ]
+  }
+ ],
+ "TR|Hakim Çağlar Işık Caddesi, Edirne": [
+  {
+   "place_id": 59211987,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 214606790,
+   "lat": "41.6629208",
+   "lon": "26.5720231",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.0533996849011978,
+   "addresstype": "tertiary",
+   "name": "Hakim Çağlar Işık Caddesi",
+   "display_name": "Hakim Çağlar Işık Caddesi, İstasyon Mahallesi, Edirne Merkez, Edirne, Marmara Bölgesi, 22100, Türkiye",
+   "boundingbox": [
+    "41.6620755",
+    "41.6638724",
+    "26.5709855",
+    "26.5729727"
+   ]
+  }
+ ],
+ "TR|Orhan Adli Apaydın Sokak 2, Beyoğlu, İstanbul": [],
+ "TR|Orhan Adli Apaydın Sokak, İstanbul": [],
+ "XK|Lorenc Antoni, Prishtinë": [
+  {
+   "place_id": 57870822,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 50831221,
+   "lat": "42.6568085",
+   "lon": "21.1560718",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05340003585870142,
+   "addresstype": "residential",
+   "name": "Lorenc Antoni",
+   "display_name": "Lorenc Antoni, Qyteza Pejton, Prishtinë, Komuna e Prishtinës / Opština Priština, Rajoni i Prishtinës / Prištinski okrug, 10000, Kosova / Kosovo",
+   "boundingbox": [
+    "42.6561849",
+    "42.6574346",
+    "21.1557799",
+    "21.1563688"
+   ]
+  }
+ ],
+ "XK|Zenel Salihu, Prishtinë": [],
+ "XK|Prishtinë": [
+  {
+   "place_id": 57704649,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 19425413,
+   "lat": "42.6638771",
+   "lon": "21.1640849",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 15,
+   "importance": 0.6345495637963924,
+   "addresstype": "city",
+   "name": "Prishtinë",
+   "display_name": "Prishtinë, Komuna e Prishtinës / Opština Priština, Rajoni i Prishtinës / Prištinski okrug, 10000, Kosova / Kosovo",
+   "boundingbox": [
+    "42.6088014",
+    "42.6969650",
+    "21.1066198",
+    "21.2136267"
+   ]
+  }
+ ],
+ "BG|Позитано 2, София": [
+  {
+   "place_id": 58986983,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 255065137,
+   "lat": "42.6960998",
+   "lon": "23.3174682",
+   "category": "building",
+   "type": "office",
+   "place_rank": 30,
+   "importance": 6.891660944528905e-05,
+   "addresstype": "building",
+   "name": "Перформ бизнес център",
+   "display_name": "Перформ бизнес център, 2, пл. Позитано, Център, София, Район Триадица, Столична, София-град, 1000, България",
+   "boundingbox": [
+    "42.6956175",
+    "42.6963337",
+    "23.3170697",
+    "23.3178136"
+   ]
+  }
+ ],
+ "BG|Триадица 5, София": [
+  {
+   "place_id": 58853422,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 166217544,
+   "lat": "42.6988708",
+   "lon": "23.3255473",
+   "category": "building",
+   "type": "office",
+   "place_rank": 30,
+   "importance": 6.891660944528905e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "5Б, Триадица, Център, София, Район Оборище, Столична, София-град, 1000, България",
+   "boundingbox": [
+    "42.6987785",
+    "42.6990209",
+    "23.3253444",
+    "23.3257502"
+   ]
+  }
+ ],
+ "TR|İstanbul Barosu, Beyoğlu": [
+  {
+   "place_id": 423405449,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 502111344,
+   "lat": "41.0305507",
+   "lon": "28.9753811",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 8.147783627064954e-05,
+   "addresstype": "building",
+   "name": "İstanbul Barosu",
+   "display_name": "İstanbul Barosu, 2, Orhan Adli Apaydın Sokağı, İstiklal, Asmalı Mescit, Asmalı Mescit Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34430, Türkiye",
+   "boundingbox": [
+    "41.0304385",
+    "41.0306654",
+    "28.9751701",
+    "28.9755894"
+   ]
+  }
+ ],
+ "TR|Büşra Sokak 24, Süleymanpaşa": [
+  {
+   "place_id": 59325499,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 173935547,
+   "lat": "40.9833365",
+   "lon": "27.5702547",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339229495689323,
+   "addresstype": "residential",
+   "name": "Büşra Sokak",
+   "display_name": "Büşra Sokak, Cumhuriyet Mahallesi, Tekirdağ, Süleymanpaşa, Tekirdağ, Marmara Bölgesi, 59030, Türkiye",
+   "boundingbox": [
+    "40.9823165",
+    "40.9856141",
+    "27.5675282",
+    "27.5720264"
+   ]
+  }
+ ],
+ "TR|Kırklareli Adalet Sarayı": [],
+ "TR|Bademlik, Kırklareli": [
+  {
+   "place_id": 59528454,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8950957450,
+   "lat": "41.7404004",
+   "lon": "27.2134476",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.14672361104753182,
+   "addresstype": "suburb",
+   "name": "Bademlik",
+   "display_name": "Bademlik, Bademlik Mahallesi, Kırklareli Merkez, Kırklareli, Marmara Bölgesi, 39010, Türkiye",
+   "boundingbox": [
+    "41.7204004",
+    "41.7604004",
+    "27.1934476",
+    "27.2334476"
+   ]
+  }
+ ],
+ "TR|Kırklareli Barosu": [
+  {
+   "place_id": 59644666,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1222186946,
+   "lat": "41.7382357",
+   "lon": "27.2046137",
+   "category": "office",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 5.694438086514103e-05,
+   "addresstype": "office",
+   "name": "Kırklareli Barosu",
+   "display_name": "Kırklareli Barosu, Yoğuntaş - Kırklareli yolu, Karakaş Mahallesi, Bademlik, Bademlik Mahallesi, Kırklareli Merkez, Kırklareli, Marmara Bölgesi, 39010, Türkiye",
+   "boundingbox": [
+    "41.7380879",
+    "41.7383833",
+    "27.2042761",
+    "27.2049514"
+   ]
+  }
+ ],
+ "AL|Rruga Pjetër Budi, Tiranë": [
+  {
+   "place_id": 57052017,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 467443858,
+   "lat": "41.3212735",
+   "lon": "19.8331962",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.3281491818164103,
+   "addresstype": "residential",
+   "name": "Rruga Pjetër Budi",
+   "display_name": "Rruga Pjetër Budi, Qyteti Studenti, Njësia Bashkiake Nr. 2, Tiranë, Bashkia Tiranë, Qarku i Tiranës, 1000, Shqipëria",
+   "boundingbox": [
+    "41.3210387",
+    "41.3213090",
+    "19.8308661",
+    "19.8355457"
+   ]
+  }
+ ],
+ "BG|Джеймс Баучер 76, София": [
+  {
+   "place_id": 59064892,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3063165739,
+   "lat": "42.6726168",
+   "lon": "23.3204267",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 6.891660944528905e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "76, бул. Джеймс Баучер, ж.к. Лозенец, София, Район Лозенец, Столична, София-град, 1421, България",
+   "boundingbox": [
+    "42.6725668",
+    "42.6726668",
+    "23.3203767",
+    "23.3204767"
+   ]
+  }
+ ],
+ "MK|Кочо Рацин 13, Скопје": [
+  {
+   "place_id": 58623502,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9315874307,
+   "lat": "41.9907397",
+   "lon": "21.4358225",
+   "category": "office",
+   "type": "charity",
+   "place_rank": 30,
+   "importance": 7.452429999232497e-05,
+   "addresstype": "office",
+   "name": "Црвен крст на Република Северна Македонија",
+   "display_name": "Црвен крст на Република Северна Македонија, 13, Коста Солев (Кочо Рацин), Ново Маало, Центар, Општина Центар, Скопје, Град Скопје, 1000, Северна Македонија",
+   "boundingbox": [
+    "41.9906897",
+    "41.9907897",
+    "21.4357725",
+    "21.4358725"
+   ]
+  }
+ ],
+ "ME|Jovana Tomaševića 6, Podgorica": [
+  {
+   "place_id": 57761521,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 979842099,
+   "lat": "42.4441536",
+   "lon": "19.2564709",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05340401388570989,
+   "addresstype": "secondary",
+   "name": "Bulevar Jovana Tomaševića",
+   "display_name": "Bulevar Jovana Tomaševića, Stara varoš, Podgorica, Glavni grad Podgorica, 81110, Crna Gora / Црна Гора",
+   "boundingbox": [
+    "42.4436741",
+    "42.4446357",
+    "19.2561821",
+    "19.2567554"
+   ]
+  }
+ ],
+ "RS|Симина 19, Београд": [
+  {
+   "place_id": 64435267,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 299408087,
+   "lat": "44.8191094",
+   "lon": "20.4608544",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 8.159685664144377e-05,
+   "addresstype": "building",
+   "name": "Дом друштва Црвеног крста",
+   "display_name": "Дом друштва Црвеног крста, 19, Симина, Скадарлија, Дорћол, Београд (Стари град), Београд, Градска општина Стари град, Град Београд, Централна Србија, 11000, Србија",
+   "boundingbox": [
+    "44.8188958",
+    "44.8193227",
+    "20.4607004",
+    "20.4613466"
+   ]
+  }
+ ],
+ "SI|Mirje 19, Ljubljana": [
+  {
+   "place_id": 68775771,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 181356450,
+   "lat": "46.0453926",
+   "lon": "14.4987305",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 7.541695277328172e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "19, Mirje, Kolezija, Četrtna skupnost Vič, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+   "boundingbox": [
+    "46.0453122",
+    "46.0454801",
+    "14.4986007",
+    "14.4988655"
+   ]
+  }
+ ],
+ "HR|Ulica Crvenog križa 14, Zagreb": [
+  {
+   "place_id": 79249689,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10722688574,
+   "lat": "45.8092345",
+   "lon": "15.9944149",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 7.947737849999263e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "14, Ulica Crvenog križa, Mjesni odbor \"Kralj Zvonimir\", Gradska četvrt Donji grad, Zagreb, Grad Zagreb, 10113, Hrvatska",
+   "boundingbox": [
+    "45.8091845",
+    "45.8092845",
+    "15.9943649",
+    "15.9944649"
+   ]
+  }
+ ],
+ "BA|Mula Mustafe Bašeskije 6, Sarajevo": [
+  {
+   "place_id": 56925496,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 474428385,
+   "lat": "43.8596725",
+   "lon": "18.4253111",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05341079957274735,
+   "addresstype": "primary",
+   "name": "Mula Mustafe Bašeskije",
+   "display_name": "Mula Mustafe Bašeskije, Sarajevo, MZ \"Baščaršija\", Općina Stari Grad, Grad Sarajevo, Kanton Sarajevo, Federacija Bosne i Hercegovine, 71144, Bosna i Hercegovina / Босна и Херцеговина",
+   "boundingbox": [
+    "43.8596064",
+    "43.8597385",
+    "18.4250508",
+    "18.4255714"
+   ]
+  }
+ ],
+ "GR|Λυκαβηττού 1, Αθήνα": [
+  {
+   "place_id": 56252690,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 222367224,
+   "lat": "37.9794022",
+   "lon": "23.7367775",
+   "category": "office",
+   "type": "ngo",
+   "place_rank": 30,
+   "importance": 8.327382314789071e-05,
+   "addresstype": "office",
+   "name": "Ελληνικός Ερυθρός Σταυρός",
+   "display_name": "Ελληνικός Ερυθρός Σταυρός, 1, Λυκαβηττού, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 72, Ελλάς",
+   "boundingbox": [
+    "37.9793106",
+    "37.9794938",
+    "23.7366451",
+    "23.7369098"
+   ]
+  }
+ ]
+}

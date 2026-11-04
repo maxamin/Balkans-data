@@ -1,0 +1,31 @@
+iso3,country,service,number,notes,source_name,source_url,retrieved,verification
+ALB,Albania,police,112,FCDO lists "Police: 112",UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/albania/getting-help,2026-10-31,official_source_listed
+ALB,Albania,ambulance,127,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/albania/getting-help,2026-10-31,official_source_listed
+ALB,Albania,fire,128,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/albania/getting-help,2026-10-31,official_source_listed
+BIH,Bosnia and Herzegovina,police,122,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/getting-help,2026-10-31,official_source_listed
+BIH,Bosnia and Herzegovina,fire,123,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/getting-help,2026-10-31,official_source_listed
+BIH,Bosnia and Herzegovina,ambulance,124,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/getting-help,2026-10-31,official_source_listed
+BGR,Bulgaria,all_emergencies,112,"ambulance, fire, police",UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/bulgaria/getting-help,2026-10-31,official_source_listed
+BGR,Bulgaria,mountain_rescue,1470,"Mountain Rescue Service (PSS, Bulgarian Red Cross); IKAR lists (088) 1470 / (02) 963 2000",IKAR-CISA International Emergency Telephone Codes (2023-12-31),https://www.alpine-rescue.org/,2026-10-31,official_source_listed
+BGR,Bulgaria,mountain_rescue_central_post,+359 2 963 2000,PSS central post,IKAR-CISA International Emergency Telephone Codes (2023-12-31),https://www.alpine-rescue.org/,2026-10-31,official_source_listed
+HRV,Croatia,all_emergencies,112,"ambulance, fire, police",UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/croatia/getting-help,2026-10-31,official_source_listed
+HRV,Croatia,mountain_rescue,112,HGSS is dispatched through Centar 112; no radio call channel for the public,IKAR-CISA International Emergency Telephone Codes (2023-12-31),https://www.alpine-rescue.org/,2026-10-31,official_source_listed
+GRC,Greece,all_emergencies,112,"ambulance, fire, police",UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/greece/getting-help,2026-10-31,official_source_listed
+XKX,Kosovo*,all_emergencies,112,"ambulance, fire, police",UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/kosovo/getting-help,2026-10-31,official_source_listed
+XKX,Kosovo*,police,192,92 from a landline,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/kosovo/getting-help,2026-10-31,official_source_listed
+XKX,Kosovo*,fire,193,93 from a landline,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/kosovo/getting-help,2026-10-31,official_source_listed
+XKX,Kosovo*,ambulance,194,94 from a landline,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/kosovo/getting-help,2026-10-31,official_source_listed
+MNE,Montenegro,all_emergencies,112,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/montenegro/getting-help,2026-10-31,official_source_listed
+MKD,North Macedonia,police,192,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/north-macedonia/getting-help,2026-10-31,official_source_listed
+MKD,North Macedonia,ambulance,194,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/north-macedonia/getting-help,2026-10-31,official_source_listed
+MKD,North Macedonia,roadside_assistance,196,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/north-macedonia/getting-help,2026-10-31,official_source_listed
+ROU,Romania,all_emergencies,112,"ambulance, fire, police",UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/romania/getting-help,2026-10-31,official_source_listed
+ROU,Romania,mountain_rescue,0725 826 668,"National Salvamont dispatch (""0SALVAMONT""); also reachable via 112. The former official domain salvamont.org now redirects to an unrelated site, so this is taken from news reports quoting Salvamont",AGERPRES / G4Media reports quoting Salvamont România,https://www.g4media.ro/un-nou-record-nedorit-pentru-istoria-salvamont-romania-187-de-apeluri-de-urgenta-in-24-de-ore-190-de-persoane-salvate-140-dintre-ele-au-ajuns-la-spital.html,2026-10-31,secondary_source
+SRB,Serbia,all_emergencies,112,"ambulance, fire, police",UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/serbia/getting-help,2026-10-31,official_source_listed
+SRB,Serbia,police,192,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/serbia/getting-help,2026-10-31,official_source_listed
+SRB,Serbia,fire,193,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/serbia/getting-help,2026-10-31,official_source_listed
+SRB,Serbia,ambulance,194,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/serbia/getting-help,2026-10-31,official_source_listed
+SRB,Serbia,mountain_rescue,062 46 46 46,Gorska služba spasavanja Srbije (GSS) main emergency line; station lines on the GSS site,Gorska služba spasavanja Srbije,https://gss.rs/,2026-10-31,official_source_listed
+SVN,Slovenia,police,113,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/slovenia/getting-help,2026-10-31,official_source_listed
+SVN,Slovenia,ambulance_fire_mountain_rescue,112,,UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/slovenia/getting-help,2026-10-31,official_source_listed
+TUR,Türkiye,all_emergencies,112,"ambulance, fire, police",UK FCDO travel advice — Getting help,https://www.gov.uk/foreign-travel-advice/turkey/getting-help,2026-10-31,official_source_listed

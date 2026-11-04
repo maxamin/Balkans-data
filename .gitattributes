@@ -1,0 +1,6 @@
+processed/terrain/dem_90m_3035.tif filter=lfs diff=lfs merge=lfs -text
+processed/terrain/dem_90m_atlas.tif filter=lfs diff=lfs merge=lfs -text
+processed/terrain/hillshade_90m.tif filter=lfs diff=lfs merge=lfs -text
+raw/osm_pbf/*.osm.pbf filter=lfs diff=lfs merge=lfs -text
+staging/clc2018_clipped.gpkg filter=lfs diff=lfs merge=lfs -text
+staging/clc2018_unclipped.gpkg filter=lfs diff=lfs merge=lfs -text

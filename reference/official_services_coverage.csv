@@ -1,0 +1,13 @@
+iso3,status,note
+BGR,compiled_v1,State Agency for Refugees official page (centres named; settlement/neighbourhood-level locations)
+GRC,compiled_v1,"Ministry of Migration and Asylum contact page; custody / pre-removal units (Amygdaleza, Paranesti, Corinth, Tavros, Nikaia) intentionally excluded"
+SRB,compiled_v1,Commissariat page is undated (c. 2019-2020); operating status cross-checked against AIDA/ECRE 2024-2025 reports; other 2019-era reception centres not included
+ALB,compiled_v1,"Ministry of Interior transparency document for the Asylum Reception Centre (Babrru); ministry website (mb.gov.al) blocks automated access, so no other offices compiled"
+BIH,compiled_v1,"Service for Foreigners' Affairs contact page and 2023 annual report (Blažuj, Ušivak, Lipa); Ministry of Security site (msb.gov.ba) not retrievable (invalid TLS certificate), so the Sector for Asylum and the Delijaš asylum centre are not included; Immigration Centre (detention) intentionally excluded"
+HRV,compiled_v1,gov.hr names the Zagreb and Kutina reception centres; street addresses from a 2015 Government document
+MKD,compiled_v1,"Ministry of Interior head office and Vinojug transit centre (Ministry of Justice, Dec 2024); Vizbegovo reception centre in register but not mapped (no government confirmation retrieved); Tabanovce transit centre not included (no current official source found); Gazi Baba detention centre for foreigners intentionally excluded"
+MNE,compiled_v1,"Ministry of Interior head office (gov.me); Spuž and Božaj centres from EU Delegation (EEAS, 2020) cross-checked with IFRC/Red Cross of Montenegro (2025) — no Montenegrin government page naming the centres was retrievable"
+ROU,compiled_v1,"IGI contact pages (2026): head office, Directorate for Asylum and Integration and all six regional asylum centres; public custody centres intentionally excluded"
+SVN,compiled_v1,Government Office for the Support and Integration of Migrants page: head office / reception sector only; Asylum Home branch addresses not published there
+TUR,compiled_v1,"Provincial Directorates of Migration Management for the four provinces with European territory (Edirne, Kırklareli, Tekirdağ, İstanbul — European-side office); coordinates as published; removal centres intentionally excluded"
+XKX,compiled_v1,Ministry of Internal Affairs asylum department page and Extended Migration Profile 2018-2022 (Dec 2023); Detention Centre for Foreigners intentionally excluded

@@ -1,0 +1,1506 @@
+<VRTDataset rasterXSize="20400" rasterYSize="18000">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  1.2999583333333334e+01,  8.3333333333333339e-04,  0.0000000000000000e+00,  4.9000416666666666e+01,  0.0000000000000000e+00, -8.3333333333333339e-04</GeoTransform>
+  <VRTRasterBand dataType="Float32" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N34_00_E023_00_DEM/Copernicus_DSM_COG_30_N34_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="16800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N34_00_E024_00_DEM/Copernicus_DSM_COG_30_N34_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="16800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N34_00_E025_00_DEM/Copernicus_DSM_COG_30_N34_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="16800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N34_00_E026_00_DEM/Copernicus_DSM_COG_30_N34_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="16800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N35_00_E014_00_DEM/Copernicus_DSM_COG_30_N35_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="15600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N35_00_E023_00_DEM/Copernicus_DSM_COG_30_N35_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="15600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N35_00_E024_00_DEM/Copernicus_DSM_COG_30_N35_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="15600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N35_00_E025_00_DEM/Copernicus_DSM_COG_30_N35_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="15600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N35_00_E026_00_DEM/Copernicus_DSM_COG_30_N35_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="15600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N35_00_E027_00_DEM/Copernicus_DSM_COG_30_N35_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="15600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E014_00_DEM/Copernicus_DSM_COG_30_N36_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E015_00_DEM/Copernicus_DSM_COG_30_N36_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E021_00_DEM/Copernicus_DSM_COG_30_N36_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E022_00_DEM/Copernicus_DSM_COG_30_N36_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E023_00_DEM/Copernicus_DSM_COG_30_N36_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E024_00_DEM/Copernicus_DSM_COG_30_N36_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E025_00_DEM/Copernicus_DSM_COG_30_N36_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E026_00_DEM/Copernicus_DSM_COG_30_N36_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E027_00_DEM/Copernicus_DSM_COG_30_N36_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E028_00_DEM/Copernicus_DSM_COG_30_N36_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N36_00_E029_00_DEM/Copernicus_DSM_COG_30_N36_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="14400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E013_00_DEM/Copernicus_DSM_COG_30_N37_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E014_00_DEM/Copernicus_DSM_COG_30_N37_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E015_00_DEM/Copernicus_DSM_COG_30_N37_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E016_00_DEM/Copernicus_DSM_COG_30_N37_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E020_00_DEM/Copernicus_DSM_COG_30_N37_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E021_00_DEM/Copernicus_DSM_COG_30_N37_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E022_00_DEM/Copernicus_DSM_COG_30_N37_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E023_00_DEM/Copernicus_DSM_COG_30_N37_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E024_00_DEM/Copernicus_DSM_COG_30_N37_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E025_00_DEM/Copernicus_DSM_COG_30_N37_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E026_00_DEM/Copernicus_DSM_COG_30_N37_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E027_00_DEM/Copernicus_DSM_COG_30_N37_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E028_00_DEM/Copernicus_DSM_COG_30_N37_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N37_00_E029_00_DEM/Copernicus_DSM_COG_30_N37_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="13200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E013_00_DEM/Copernicus_DSM_COG_30_N38_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E014_00_DEM/Copernicus_DSM_COG_30_N38_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E015_00_DEM/Copernicus_DSM_COG_30_N38_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E016_00_DEM/Copernicus_DSM_COG_30_N38_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E017_00_DEM/Copernicus_DSM_COG_30_N38_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E020_00_DEM/Copernicus_DSM_COG_30_N38_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E021_00_DEM/Copernicus_DSM_COG_30_N38_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E022_00_DEM/Copernicus_DSM_COG_30_N38_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E023_00_DEM/Copernicus_DSM_COG_30_N38_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E024_00_DEM/Copernicus_DSM_COG_30_N38_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E025_00_DEM/Copernicus_DSM_COG_30_N38_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E026_00_DEM/Copernicus_DSM_COG_30_N38_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E027_00_DEM/Copernicus_DSM_COG_30_N38_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E028_00_DEM/Copernicus_DSM_COG_30_N38_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N38_00_E029_00_DEM/Copernicus_DSM_COG_30_N38_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="12000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E015_00_DEM/Copernicus_DSM_COG_30_N39_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E016_00_DEM/Copernicus_DSM_COG_30_N39_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E017_00_DEM/Copernicus_DSM_COG_30_N39_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E018_00_DEM/Copernicus_DSM_COG_30_N39_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E019_00_DEM/Copernicus_DSM_COG_30_N39_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E020_00_DEM/Copernicus_DSM_COG_30_N39_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E021_00_DEM/Copernicus_DSM_COG_30_N39_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E022_00_DEM/Copernicus_DSM_COG_30_N39_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E023_00_DEM/Copernicus_DSM_COG_30_N39_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E024_00_DEM/Copernicus_DSM_COG_30_N39_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E025_00_DEM/Copernicus_DSM_COG_30_N39_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E026_00_DEM/Copernicus_DSM_COG_30_N39_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E027_00_DEM/Copernicus_DSM_COG_30_N39_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E028_00_DEM/Copernicus_DSM_COG_30_N39_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N39_00_E029_00_DEM/Copernicus_DSM_COG_30_N39_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="10800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E013_00_DEM/Copernicus_DSM_COG_30_N40_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E014_00_DEM/Copernicus_DSM_COG_30_N40_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E015_00_DEM/Copernicus_DSM_COG_30_N40_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E016_00_DEM/Copernicus_DSM_COG_30_N40_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E017_00_DEM/Copernicus_DSM_COG_30_N40_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E018_00_DEM/Copernicus_DSM_COG_30_N40_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E019_00_DEM/Copernicus_DSM_COG_30_N40_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E020_00_DEM/Copernicus_DSM_COG_30_N40_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E021_00_DEM/Copernicus_DSM_COG_30_N40_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E022_00_DEM/Copernicus_DSM_COG_30_N40_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E023_00_DEM/Copernicus_DSM_COG_30_N40_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E024_00_DEM/Copernicus_DSM_COG_30_N40_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E025_00_DEM/Copernicus_DSM_COG_30_N40_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E026_00_DEM/Copernicus_DSM_COG_30_N40_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E027_00_DEM/Copernicus_DSM_COG_30_N40_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E028_00_DEM/Copernicus_DSM_COG_30_N40_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N40_00_E029_00_DEM/Copernicus_DSM_COG_30_N40_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="9600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E013_00_DEM/Copernicus_DSM_COG_30_N41_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E014_00_DEM/Copernicus_DSM_COG_30_N41_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E015_00_DEM/Copernicus_DSM_COG_30_N41_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E016_00_DEM/Copernicus_DSM_COG_30_N41_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E017_00_DEM/Copernicus_DSM_COG_30_N41_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E019_00_DEM/Copernicus_DSM_COG_30_N41_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E020_00_DEM/Copernicus_DSM_COG_30_N41_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E021_00_DEM/Copernicus_DSM_COG_30_N41_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E022_00_DEM/Copernicus_DSM_COG_30_N41_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E023_00_DEM/Copernicus_DSM_COG_30_N41_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E024_00_DEM/Copernicus_DSM_COG_30_N41_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E025_00_DEM/Copernicus_DSM_COG_30_N41_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E026_00_DEM/Copernicus_DSM_COG_30_N41_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E027_00_DEM/Copernicus_DSM_COG_30_N41_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E028_00_DEM/Copernicus_DSM_COG_30_N41_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N41_00_E029_00_DEM/Copernicus_DSM_COG_30_N41_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="8400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E013_00_DEM/Copernicus_DSM_COG_30_N42_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E014_00_DEM/Copernicus_DSM_COG_30_N42_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E015_00_DEM/Copernicus_DSM_COG_30_N42_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E016_00_DEM/Copernicus_DSM_COG_30_N42_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E017_00_DEM/Copernicus_DSM_COG_30_N42_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E018_00_DEM/Copernicus_DSM_COG_30_N42_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E019_00_DEM/Copernicus_DSM_COG_30_N42_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E020_00_DEM/Copernicus_DSM_COG_30_N42_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E021_00_DEM/Copernicus_DSM_COG_30_N42_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E022_00_DEM/Copernicus_DSM_COG_30_N42_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E023_00_DEM/Copernicus_DSM_COG_30_N42_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E024_00_DEM/Copernicus_DSM_COG_30_N42_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E025_00_DEM/Copernicus_DSM_COG_30_N42_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E026_00_DEM/Copernicus_DSM_COG_30_N42_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E027_00_DEM/Copernicus_DSM_COG_30_N42_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N42_00_E028_00_DEM/Copernicus_DSM_COG_30_N42_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="7200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E013_00_DEM/Copernicus_DSM_COG_30_N43_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E015_00_DEM/Copernicus_DSM_COG_30_N43_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E016_00_DEM/Copernicus_DSM_COG_30_N43_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E017_00_DEM/Copernicus_DSM_COG_30_N43_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E018_00_DEM/Copernicus_DSM_COG_30_N43_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E019_00_DEM/Copernicus_DSM_COG_30_N43_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E020_00_DEM/Copernicus_DSM_COG_30_N43_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E021_00_DEM/Copernicus_DSM_COG_30_N43_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E022_00_DEM/Copernicus_DSM_COG_30_N43_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E023_00_DEM/Copernicus_DSM_COG_30_N43_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E024_00_DEM/Copernicus_DSM_COG_30_N43_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E025_00_DEM/Copernicus_DSM_COG_30_N43_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E026_00_DEM/Copernicus_DSM_COG_30_N43_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E027_00_DEM/Copernicus_DSM_COG_30_N43_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N43_00_E028_00_DEM/Copernicus_DSM_COG_30_N43_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="6000" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E013_00_DEM/Copernicus_DSM_COG_30_N44_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E014_00_DEM/Copernicus_DSM_COG_30_N44_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E015_00_DEM/Copernicus_DSM_COG_30_N44_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E016_00_DEM/Copernicus_DSM_COG_30_N44_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E017_00_DEM/Copernicus_DSM_COG_30_N44_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E018_00_DEM/Copernicus_DSM_COG_30_N44_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E019_00_DEM/Copernicus_DSM_COG_30_N44_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E020_00_DEM/Copernicus_DSM_COG_30_N44_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E021_00_DEM/Copernicus_DSM_COG_30_N44_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E022_00_DEM/Copernicus_DSM_COG_30_N44_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E023_00_DEM/Copernicus_DSM_COG_30_N44_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E024_00_DEM/Copernicus_DSM_COG_30_N44_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E025_00_DEM/Copernicus_DSM_COG_30_N44_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E026_00_DEM/Copernicus_DSM_COG_30_N44_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E027_00_DEM/Copernicus_DSM_COG_30_N44_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E028_00_DEM/Copernicus_DSM_COG_30_N44_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N44_00_E029_00_DEM/Copernicus_DSM_COG_30_N44_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="4800" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E013_00_DEM/Copernicus_DSM_COG_30_N45_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E014_00_DEM/Copernicus_DSM_COG_30_N45_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E015_00_DEM/Copernicus_DSM_COG_30_N45_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E016_00_DEM/Copernicus_DSM_COG_30_N45_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E017_00_DEM/Copernicus_DSM_COG_30_N45_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E018_00_DEM/Copernicus_DSM_COG_30_N45_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E019_00_DEM/Copernicus_DSM_COG_30_N45_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E020_00_DEM/Copernicus_DSM_COG_30_N45_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E021_00_DEM/Copernicus_DSM_COG_30_N45_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E022_00_DEM/Copernicus_DSM_COG_30_N45_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E023_00_DEM/Copernicus_DSM_COG_30_N45_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E024_00_DEM/Copernicus_DSM_COG_30_N45_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E025_00_DEM/Copernicus_DSM_COG_30_N45_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E026_00_DEM/Copernicus_DSM_COG_30_N45_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E027_00_DEM/Copernicus_DSM_COG_30_N45_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E028_00_DEM/Copernicus_DSM_COG_30_N45_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N45_00_E029_00_DEM/Copernicus_DSM_COG_30_N45_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="3600" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E013_00_DEM/Copernicus_DSM_COG_30_N46_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E014_00_DEM/Copernicus_DSM_COG_30_N46_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E015_00_DEM/Copernicus_DSM_COG_30_N46_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E016_00_DEM/Copernicus_DSM_COG_30_N46_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E017_00_DEM/Copernicus_DSM_COG_30_N46_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E018_00_DEM/Copernicus_DSM_COG_30_N46_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E019_00_DEM/Copernicus_DSM_COG_30_N46_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E020_00_DEM/Copernicus_DSM_COG_30_N46_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E021_00_DEM/Copernicus_DSM_COG_30_N46_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E022_00_DEM/Copernicus_DSM_COG_30_N46_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E023_00_DEM/Copernicus_DSM_COG_30_N46_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E024_00_DEM/Copernicus_DSM_COG_30_N46_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E025_00_DEM/Copernicus_DSM_COG_30_N46_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E026_00_DEM/Copernicus_DSM_COG_30_N46_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E027_00_DEM/Copernicus_DSM_COG_30_N46_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E028_00_DEM/Copernicus_DSM_COG_30_N46_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N46_00_E029_00_DEM/Copernicus_DSM_COG_30_N46_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="2400" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E013_00_DEM/Copernicus_DSM_COG_30_N47_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E014_00_DEM/Copernicus_DSM_COG_30_N47_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E015_00_DEM/Copernicus_DSM_COG_30_N47_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E016_00_DEM/Copernicus_DSM_COG_30_N47_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E017_00_DEM/Copernicus_DSM_COG_30_N47_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E018_00_DEM/Copernicus_DSM_COG_30_N47_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E019_00_DEM/Copernicus_DSM_COG_30_N47_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E020_00_DEM/Copernicus_DSM_COG_30_N47_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E021_00_DEM/Copernicus_DSM_COG_30_N47_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E022_00_DEM/Copernicus_DSM_COG_30_N47_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E023_00_DEM/Copernicus_DSM_COG_30_N47_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E024_00_DEM/Copernicus_DSM_COG_30_N47_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E025_00_DEM/Copernicus_DSM_COG_30_N47_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E026_00_DEM/Copernicus_DSM_COG_30_N47_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E027_00_DEM/Copernicus_DSM_COG_30_N47_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E028_00_DEM/Copernicus_DSM_COG_30_N47_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N47_00_E029_00_DEM/Copernicus_DSM_COG_30_N47_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="1200" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E013_00_DEM/Copernicus_DSM_COG_30_N48_00_E013_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E014_00_DEM/Copernicus_DSM_COG_30_N48_00_E014_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="1200" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E015_00_DEM/Copernicus_DSM_COG_30_N48_00_E015_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="2400" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E016_00_DEM/Copernicus_DSM_COG_30_N48_00_E016_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="3600" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E017_00_DEM/Copernicus_DSM_COG_30_N48_00_E017_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="4800" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E018_00_DEM/Copernicus_DSM_COG_30_N48_00_E018_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="6000" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E019_00_DEM/Copernicus_DSM_COG_30_N48_00_E019_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="7200" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E020_00_DEM/Copernicus_DSM_COG_30_N48_00_E020_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="8400" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E021_00_DEM/Copernicus_DSM_COG_30_N48_00_E021_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="9600" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E022_00_DEM/Copernicus_DSM_COG_30_N48_00_E022_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="10800" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E023_00_DEM/Copernicus_DSM_COG_30_N48_00_E023_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="12000" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E024_00_DEM/Copernicus_DSM_COG_30_N48_00_E024_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="13200" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E025_00_DEM/Copernicus_DSM_COG_30_N48_00_E025_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="14400" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E026_00_DEM/Copernicus_DSM_COG_30_N48_00_E026_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="15600" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E027_00_DEM/Copernicus_DSM_COG_30_N48_00_E027_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="16800" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E028_00_DEM/Copernicus_DSM_COG_30_N48_00_E028_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="18000" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N48_00_E029_00_DEM/Copernicus_DSM_COG_30_N48_00_E029_00_DEM.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
+      <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
+      <DstRect xOff="19200" yOff="0" xSize="1200" ySize="1200" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <OverviewList resampling="nearest">2 4</OverviewList>
+</VRTDataset>
